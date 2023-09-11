@@ -185,6 +185,11 @@ footer {
   width: 100%;
 }
 
+footer a {
+  color: #7745db;
+  text-decoration: none;
+}
+
 .copyright {
   margin: 16px 0;
   font-size: 14px;

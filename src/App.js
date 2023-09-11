@@ -7,7 +7,7 @@ function App() {
     <div className='todo-app'>
       <TodoList />
       <footer>
-        <div className="copyright">Copyright by Ammar</div>
+        <div className="copyright">&copy; 2023 <a href='https://ahmadammarm.github.io/ammar/' target='_blank' rel="noreferrer">Ammar</a>. All Right Reserved</div>
       </footer>
     </div>
   );
