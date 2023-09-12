@@ -145,7 +145,7 @@ h1 {
   color: #fff;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .todo-app {
     width: 100%;
     margin: 64px auto;
